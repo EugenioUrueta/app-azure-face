@@ -26,6 +26,7 @@ const Home = () => {
         <ul>
           <li>Eugenio Urueta</li>
           <li>Jhon Ramirez</li>
+          <li>Deyanira Sanchez</li>
           <li>Alejandro Pabon</li>
           <li>Emiro Urango</li>
         </ul>
